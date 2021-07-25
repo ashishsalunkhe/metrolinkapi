@@ -1,0 +1,131 @@
+{
+  "schedule": 
+	  [
+		{
+			"arrival": "08.00.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "PCMC Station", 
+			"station_code": "PCMCSTN", 
+			"id": 202101, 
+			"train_number": "202201", 
+			"departure": "08:01:00"
+		},
+		{
+			"arrival": "08.05.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": " Sant Tukaram Nagar", 
+			"station_code": "STNSTN", 
+			"id": 202102, 
+			"train_number": "202201", 
+			"departure": "08:06:00"
+		},
+		{
+			"arrival": "08.14.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Bhosari (Nashik Phata)", 
+			"station_code": "BHSSTN", 
+			"id": 202103, 
+			"train_number": "202201", 
+			"departure": "08:15:00"
+		},
+		{
+			"arrival": "08.20.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Kasarwadi", 
+			"station_code": "KSWSTN", 
+			"id": 202104, 
+			"train_number": "202201", 
+			"departure": "08:21:00"
+		},
+		{
+			"arrival": "08.32.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Phugewadi", 
+			"station_code": "PGWSTN", 
+			"id": 202105, 
+			"train_number": "202201", 
+			"departure": "08:33:00"
+		},
+		{
+			"arrival": "08.43.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Dapodi", 
+			"station_code": "DAPSTN", 
+			"id": 202106, 
+			"train_number": "202201", 
+			"departure": "08:44:00"
+		},
+		{
+			"arrival": "08.58.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Bopodi", 
+			"station_code": "BOPSTN", 
+			"id": 202107, 
+			"train_number": "202201", 
+			"departure": "08:59:00"
+		},
+		{
+			"arrival": "09.15.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Khadki", 
+			"station_code": "KHDSTN", 
+			"id": 202108, 
+			"train_number": "202201", 
+			"departure": "09:16:00"
+		},
+		{
+			"arrival": "09.25.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Range Hill", 
+			"station_code": "RANHSTN", 
+			"id": 202109, 
+			"train_number": "202201", 
+			"departure": "09:26:00"
+		},
+		{
+			"arrival": "09.35.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Shivaji Nagar", 
+			"station_code": "SHIVSTN", 
+			"id": 202110, 
+			"train_number": "202201", 
+			"departure": "09:26:00"
+		},
+		{
+			"arrival": "09.45.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Civil Court", 
+			"station_code": "CCTSTN", 
+			"id": 202111, 
+			"train_number": "202201", 
+			"departure": "09:46:00"
+		},
+		{
+			"arrival": "10.10.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Budhwar Peth", 
+			"station_code": "BWPSTN", 
+			"id": 202112, 
+			"train_number": "202201", 
+			"departure": "10:11:00"
+		},
+		{
+			"arrival": "10.25.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Mandai", 
+			"station_code": "MANSTN", 
+			"id": 202113, 
+			"train_number": "202201", 
+			"departure": "10:26:00"
+		},
+		{
+			"arrival": "10.35.00", 
+			"train_name": "PCMC_SWARGATE", 
+			"station_name": "Swargate", 
+			"station_code": "SWRSTN", 
+			"id": 202114, 
+			"train_number": "202201", 
+			"departure": "None"
+		}
+	]
+}
